@@ -1,1 +1,0 @@
-const t=[];async function c(){try{return t}catch(r){throw console.log("Error fetching posts: ",r),r}}async function n(r){try{return t[r]}catch(o){throw console.log(`Error fetching post with id: ${r}. Error: ${o}`),o}}export{n as a,c as f};

@@ -1,0 +1,1 @@
+var e=(r=>(r.finished="finished",r.reading="reading",r.wanna="wanna",r))(e||{}),n=(r=>(r.done="Done",r.online="Online",r.in_dev="In Dev",r.abandoned="Abandoned",r))(n||{}),o=(r=>(r.python="Python",r.cpp="C++",r.typescript="Typescript",r.rust="Rust",r.go="Go",r))(o||{});export{o as L,e as R,n as S};
